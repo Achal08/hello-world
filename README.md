@@ -1,5 +1,6 @@
 # hello-world
 Just another repository
+C++ - cout<<"Hello World";
 Python - print("Hello World")
 JavaScript -  <!DOCTYPE html>
               <html lang="en">
@@ -12,4 +13,5 @@ JavaScript -  <!DOCTYPE html>
               </head>
               <body>
               </body>
-              </html>              
+              </html>     
+             
